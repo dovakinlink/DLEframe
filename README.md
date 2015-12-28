@@ -1,5 +1,8 @@
-# DLEframe
-Android插件化开发框架
+# DLEframe 
+
+
+
+Android插件化开发框架  DEMO
 
 该模式下的插件化开发分为主程序与多插件模式
 
